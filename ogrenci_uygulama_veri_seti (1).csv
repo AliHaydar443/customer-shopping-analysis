@@ -1,0 +1,501 @@
+musteri_id,yas,cinsiyet,sehir,egitim_duzeyi,urun_kategorisi,siparis_tutari_tl,siparis_adedi,memnuniyet_puani,iade_durumu
+O0001,38,Erkek,Ankara,Ön Lisans,Kitap,378.39,5,5,Hayır
+O0002,39,Kadın,Bursa,Lisans,Kitap,310.43,4,5,Hayır
+O0003,38,Kadın,İstanbul,Lise,Giyim,1194.27,6,3,Evet
+O0004,33,Kadın,Ankara,Yüksek Lisans,Ev & Yaşam,586.97,5,4,Hayır
+O0005,29,Erkek,Ankara,Lise,Ev & Yaşam,111.8,3,5,Hayır
+O0006,30,Erkek,İstanbul,Yüksek Lisans,Ev & Yaşam,473.4,2,1,Hayır
+O0007,29,Erkek,İzmir,Yüksek Lisans,Kitap,104.04,4,5,Hayır
+O0008,45,Kadın,Ankara,Lise,Kitap,65.92,2,5,Hayır
+O0009,39,Kadın,İzmir,Ön Lisans,Spor,77.55,1,2,Hayır
+O0010,18,Kadın,Ankara,Lisans,Elektronik,3700.63,5,3,Hayır
+O0011,39,Erkek,Bursa,Ön Lisans,Elektronik,739.74,2,5,Hayır
+O0012,34,Kadın,İstanbul,Lise,Spor,193.74,4,4,Hayır
+O0013,31,Kadın,İzmir,Lise,Elektronik,330.99,5,1,Evet
+O0014,27,Erkek,İzmir,Ön Lisans,Giyim,594.29,4,3,Hayır
+O0015,45,Erkek,Antalya,Yüksek Lisans,Giyim,107.03,5,4,Hayır
+O0016,43,Erkek,Antalya,Lise,Giyim,863.97,4,4,Hayır
+O0017,22,Erkek,İstanbul,Ön Lisans,Spor,602.97,3,4,Hayır
+O0018,36,Kadın,Ankara,Lisans,Elektronik,641.1,1,5,Evet
+O0019,20,Erkek,İzmir,Lise,Giyim,70.69,1,3,Hayır
+O0020,18,Erkek,İstanbul,Ön Lisans,Elektronik,2216.96,4,4,Hayır
+O0021,24,Kadın,Bursa,Yüksek Lisans,Giyim,123.19,1,4,Evet
+O0022,42,Erkek,İstanbul,Lisans,Elektronik,2104.16,3,4,Hayır
+O0023,43,Erkek,İzmir,Lise,Ev & Yaşam,144.76,1,3,Evet
+O0024,38,Erkek,Ankara,Lise,Giyim,243.32,3,5,Hayır
+O0025,40,Erkek,Ankara,Lise,Kitap,86.6,2,5,Hayır
+O0026,38,Kadın,İstanbul,Lisans,Ev & Yaşam,921.48,6,4,Hayır
+O0027,24,Erkek,İstanbul,Lise,Ev & Yaşam,624.55,3,4,Hayır
+O0028,37,Kadın,İstanbul,Lise,Ev & Yaşam,957.82,4,3,Evet
+O0029,41,Kadın,Antalya,Lisans,Elektronik,1144.34,2,4,Hayır
+O0030,41,Erkek,İzmir,Lise,Kitap,166.12,4,4,Hayır
+O0031,46,Kadın,Ankara,Ön Lisans,Ev & Yaşam,269.32,2,4,Hayır
+O0032,40,Erkek,İzmir,Lisans,Spor,515.95,2,5,Hayır
+O0033,36,Erkek,İzmir,Ön Lisans,Spor,1161.7,4,4,Hayır
+O0034,44,Kadın,Bursa,Ön Lisans,Ev & Yaşam,1401.49,7,3,Evet
+O0035,31,Kadın,Ankara,Ön Lisans,Ev & Yaşam,213.73,4,5,Hayır
+O0036,21,Kadın,İzmir,Yüksek Lisans,Giyim,50.11,1,3,Hayır
+O0037,30,Erkek,Ankara,Lisans,Giyim,483.79,3,3,Hayır
+O0038,23,Erkek,İstanbul,Yüksek Lisans,Spor,283.06,4,3,Hayır
+O0039,23,Kadın,İstanbul,Ön Lisans,Giyim,313.2,2,4,Hayır
+O0040,30,Erkek,Antalya,Lisans,Kitap,317.73,5,5,Hayır
+O0041,22,Erkek,İzmir,Lisans,Spor,274.84,2,4,Evet
+O0042,28,Kadın,Bursa,Yüksek Lisans,Giyim,1576.81,5,5,Hayır
+O0043,18,Erkek,İstanbul,Lisans,Kitap,93.01,3,4,Hayır
+O0044,34,Kadın,Ankara,Lisans,Ev & Yaşam,180.28,3,3,Hayır
+O0045,32,Erkek,Bursa,Lise,Elektronik,1095.33,6,5,Evet
+O0046,22,Kadın,İstanbul,Lisans,Kitap,115.74,4,3,Hayır
+O0047,39,Erkek,Antalya,Ön Lisans,Elektronik,5714.67,9,3,Hayır
+O0048,43,Kadın,Ankara,Ön Lisans,Kitap,199.99,3,4,Hayır
+O0049,18,Kadın,Bursa,Lise,Giyim,78.35,2,3,Hayır
+O0050,22,Erkek,Ankara,Ön Lisans,Spor,427.98,4,1,Hayır
+O0051,22,Kadın,Bursa,Lise,Elektronik,2115.52,6,4,Hayır
+O0052,20,Kadın,İzmir,Lisans,Spor,749.36,4,4,Hayır
+O0053,41,Kadın,Bursa,Lise,Elektronik,396.58,2,4,Hayır
+O0054,29,Kadın,Bursa,Yüksek Lisans,Elektronik,1811.35,6,5,Evet
+O0055,28,Kadın,İzmir,Lise,Giyim,58.75,2,4,Hayır
+O0056,18,Kadın,İstanbul,Lisans,Giyim,271.97,1,5,Hayır
+O0057,39,Erkek,Antalya,Yüksek Lisans,Spor,92.15,1,2,Hayır
+O0058,18,Erkek,Antalya,Lisans,Ev & Yaşam,713.61,3,4,Hayır
+O0059,32,Erkek,Ankara,Lisans,Elektronik,1186.63,9,5,Hayır
+O0060,35,Erkek,Bursa,Lisans,Elektronik,1262.22,2,4,Hayır
+O0061,48,Erkek,Ankara,Lise,Ev & Yaşam,239.1,7,4,Hayır
+O0062,18,Erkek,İstanbul,Lise,Giyim,201.81,2,3,Hayır
+O0063,18,Kadın,Antalya,Yüksek Lisans,Elektronik,3310.22,5,2,Hayır
+O0064,34,Erkek,Antalya,Lisans,Ev & Yaşam,155.73,1,4,Hayır
+O0065,53,Erkek,İstanbul,Lisans,Elektronik,1112.69,3,3,Hayır
+O0066,46,Kadın,Bursa,Yüksek Lisans,Ev & Yaşam,1621.89,9,5,Hayır
+O0067,34,Erkek,İstanbul,Ön Lisans,Spor,1373.55,6,3,Hayır
+O0068,26,Kadın,İstanbul,Ön Lisans,Giyim,2232.77,7,5,Hayır
+O0069,41,Erkek,İzmir,Lisans,Spor,212.67,1,5,Hayır
+O0070,20,Kadın,İstanbul,Lisans,Kitap,335.77,4,3,Hayır
+O0071,37,Kadın,Bursa,Lisans,Kitap,178.84,5,3,Hayır
+O0072,38,Erkek,Ankara,Ön Lisans,Giyim,116.82,4,5,Hayır
+O0073,44,Erkek,İstanbul,Ön Lisans,Spor,527.08,3,5,Hayır
+O0074,65,Kadın,Bursa,Ön Lisans,Elektronik,3237.51,8,4,Evet
+O0075,36,Kadın,İzmir,Lise,Giyim,472.55,2,3,Evet
+O0076,25,Kadın,İzmir,Lisans,Giyim,193.53,4,4,Evet
+O0077,31,Kadın,Antalya,Lisans,Giyim,209.62,1,4,Hayır
+O0078,18,Erkek,İzmir,Yüksek Lisans,Spor,932.45,4,3,Hayır
+O0079,23,Erkek,İstanbul,Ön Lisans,Spor,96.47,4,4,Evet
+O0080,27,Erkek,İstanbul,Lise,Kitap,133.75,3,2,Hayır
+O0081,25,Kadın,İstanbul,Yüksek Lisans,Giyim,215.93,5,1,Hayır
+O0082,33,Kadın,İzmir,Ön Lisans,Ev & Yaşam,177.97,1,3,Hayır
+O0083,22,Erkek,İstanbul,Lisans,Kitap,201.03,5,3,Hayır
+O0084,45,Erkek,İstanbul,Lise,Kitap,52.53,1,3,Evet
+O0085,32,Erkek,Bursa,Lise,Elektronik,1381.14,2,4,Hayır
+O0086,31,Erkek,İstanbul,Lisans,Giyim,75.86,1,3,Hayır
+O0087,28,Kadın,Antalya,Lisans,Spor,684.65,5,3,Hayır
+O0088,33,Kadın,Antalya,Ön Lisans,Ev & Yaşam,528.64,3,3,Hayır
+O0089,41,Kadın,Antalya,Lise,Ev & Yaşam,552.37,2,5,Hayır
+O0090,21,Erkek,İstanbul,Ön Lisans,Spor,588.65,2,4,Hayır
+O0091,24,Erkek,Antalya,Lise,Spor,649.33,4,4,Hayır
+O0092,28,Kadın,Bursa,Lisans,Elektronik,290.82,2,4,Evet
+O0093,18,Kadın,İstanbul,Lisans,Giyim,578.2,4,5,Hayır
+O0094,22,Kadın,İstanbul,Lisans,Giyim,312.8,2,3,Hayır
+O0095,26,Kadın,İzmir,Ön Lisans,Spor,436.18,2,4,Hayır
+O0096,42,Kadın,İstanbul,Ön Lisans,Kitap,24.66,2,4,Hayır
+O0097,35,Kadın,Ankara,Ön Lisans,Ev & Yaşam,1579.26,7,4,Hayır
+O0098,34,Erkek,İstanbul,Ön Lisans,Giyim,931.23,5,2,Hayır
+O0099,42,Erkek,İstanbul,Yüksek Lisans,Giyim,916.41,5,4,Hayır
+O0100,30,Erkek,Antalya,Lisans,Elektronik,2690.43,5,2,Hayır
+O0101,36,Erkek,İstanbul,Ön Lisans,Giyim,533.82,3,4,Evet
+O0102,30,Kadın,İstanbul,Lise,Ev & Yaşam,1010.73,4,4,Hayır
+O0103,35,Erkek,İstanbul,Lise,Giyim,190.93,3,3,Hayır
+O0104,25,Kadın,Antalya,Lise,Ev & Yaşam,316.86,2,5,Hayır
+O0105,18,Kadın,Antalya,Lise,Giyim,603.8,5,1,Hayır
+O0106,30,Erkek,İstanbul,Ön Lisans,Kitap,214.63,3,5,Hayır
+O0107,49,Erkek,İstanbul,Lisans,Giyim,198.98,4,4,Evet
+O0108,43,Kadın,İstanbul,Yüksek Lisans,Elektronik,2185.34,3,3,Evet
+O0109,43,Erkek,Bursa,Yüksek Lisans,Giyim,386.57,2,2,Hayır
+O0110,46,Erkek,Ankara,Ön Lisans,Kitap,244.2,5,5,Evet
+O0111,33,Erkek,Antalya,Lise,Elektronik,1283.87,2,2,Hayır
+O0112,34,Erkek,Ankara,Ön Lisans,Spor,303.09,2,3,Hayır
+O0113,24,Kadın,Bursa,Ön Lisans,Kitap,262.11,3,3,Hayır
+O0114,28,Kadın,Antalya,Lisans,Ev & Yaşam,372.35,3,4,Evet
+O0115,39,Kadın,İzmir,Lisans,Ev & Yaşam,973.99,6,4,Hayır
+O0116,46,Kadın,İzmir,Lisans,Spor,96.93,1,2,Hayır
+O0117,30,Kadın,Antalya,Ön Lisans,Elektronik,1823.07,5,3,Hayır
+O0118,26,Erkek,İstanbul,Lise,Spor,44.7,1,3,Hayır
+O0119,32,Kadın,Ankara,Lisans,Kitap,316.22,4,3,Hayır
+O0120,39,Kadın,Ankara,Ön Lisans,Spor,132.44,2,4,Evet
+O0121,18,Kadın,İstanbul,Lise,Kitap,77.65,3,4,Hayır
+O0122,18,Kadın,İstanbul,Lise,Giyim,337.29,3,3,Hayır
+O0123,25,Erkek,İstanbul,Lise,Kitap,148.02,3,3,Evet
+O0124,18,Erkek,İstanbul,Lise,Elektronik,1722.9,4,3,Hayır
+O0125,25,Erkek,Bursa,Yüksek Lisans,Giyim,113.51,1,5,Evet
+O0126,30,Erkek,İstanbul,Lisans,Spor,346.72,4,5,Hayır
+O0127,26,Kadın,İstanbul,Ön Lisans,Giyim,205.3,1,5,Hayır
+O0128,49,Kadın,Ankara,Lisans,Kitap,318.12,6,3,Hayır
+O0129,35,Erkek,Antalya,Lisans,Giyim,1067.16,7,2,Evet
+O0130,35,Kadın,İstanbul,Lisans,Kitap,211.99,6,3,Hayır
+O0131,39,Erkek,Ankara,Yüksek Lisans,Elektronik,1061.07,5,3,Hayır
+O0132,18,Erkek,İzmir,Lisans,Ev & Yaşam,79.05,2,4,Hayır
+O0133,44,Erkek,Bursa,Ön Lisans,Spor,86.8,1,5,Hayır
+O0134,31,Erkek,Bursa,Ön Lisans,Elektronik,1292.82,4,5,Hayır
+O0135,40,Kadın,Antalya,Yüksek Lisans,Elektronik,1589.29,5,5,Hayır
+O0136,19,Erkek,İstanbul,Ön Lisans,Giyim,193.31,4,3,Evet
+O0137,18,Kadın,Bursa,Lise,Ev & Yaşam,394.86,3,4,Hayır
+O0138,41,Kadın,İstanbul,Lisans,Giyim,528.99,6,3,Hayır
+O0139,36,Erkek,İstanbul,Lisans,Elektronik,1394.47,2,2,Hayır
+O0140,21,Kadın,İstanbul,Lisans,Elektronik,2835.14,4,4,Evet
+O0141,21,Kadın,Antalya,Lise,Kitap,123.91,4,1,Hayır
+O0142,45,Erkek,İstanbul,Lisans,Elektronik,1833.76,3,4,Hayır
+O0143,18,Kadın,İstanbul,Yüksek Lisans,Kitap,241.67,8,3,Hayır
+O0144,51,Erkek,İstanbul,Lisans,Spor,29.22,1,4,Hayır
+O0145,21,Erkek,Antalya,Lisans,Giyim,101.25,4,5,Hayır
+O0146,39,Erkek,İzmir,Lise,Elektronik,1363.47,2,3,Hayır
+O0147,28,Kadın,Bursa,Yüksek Lisans,Giyim,299.42,2,5,Hayır
+O0148,39,Kadın,Ankara,Yüksek Lisans,Elektronik,142.46,1,3,Hayır
+O0149,25,Erkek,Ankara,Lise,Elektronik,690.58,2,4,Hayır
+O0150,30,Erkek,İstanbul,Lise,Spor,995.31,7,4,Hayır
+O0151,32,Kadın,Antalya,Yüksek Lisans,Giyim,21.06,1,4,Hayır
+O0152,19,Erkek,Bursa,Lise,Ev & Yaşam,316.64,2,5,Hayır
+O0153,40,Erkek,Bursa,Yüksek Lisans,Ev & Yaşam,667.3,3,3,Hayır
+O0154,25,Kadın,Ankara,Yüksek Lisans,Ev & Yaşam,711.26,5,4,Hayır
+O0155,29,Kadın,İstanbul,Lisans,Giyim,173.77,3,4,Hayır
+O0156,20,Erkek,Antalya,Yüksek Lisans,Elektronik,2075.19,4,5,Hayır
+O0157,18,Kadın,İstanbul,Ön Lisans,Kitap,292.69,6,3,Hayır
+O0158,29,Kadın,İstanbul,Lise,Ev & Yaşam,689.5,3,5,Hayır
+O0159,60,Erkek,Bursa,Lise,Ev & Yaşam,555.81,3,4,Hayır
+O0160,41,Kadın,Bursa,Ön Lisans,Ev & Yaşam,84.39,3,3,Hayır
+O0161,31,Erkek,İstanbul,Lise,Spor,117.81,2,4,Hayır
+O0162,28,Kadın,İzmir,Ön Lisans,Kitap,223.67,3,3,Hayır
+O0163,32,Kadın,Bursa,Lisans,Elektronik,988.58,6,4,Hayır
+O0164,38,Kadın,İstanbul,Yüksek Lisans,Kitap,34.98,2,5,Hayır
+O0165,18,Erkek,Antalya,Ön Lisans,Elektronik,638.48,3,4,Hayır
+O0166,45,Kadın,İstanbul,Lise,Elektronik,227.26,1,4,Evet
+O0167,40,Erkek,İstanbul,Lise,Giyim,320.34,2,4,Hayır
+O0168,40,Erkek,İstanbul,Lisans,Elektronik,229.17,3,2,Hayır
+O0169,37,Erkek,İstanbul,Ön Lisans,Giyim,292.34,8,3,Hayır
+O0170,32,Kadın,İstanbul,Lisans,Elektronik,600.12,6,4,Hayır
+O0171,40,Kadın,İstanbul,Lisans,Ev & Yaşam,660.43,4,3,Hayır
+O0172,39,Erkek,İzmir,Lise,Elektronik,1923.85,5,3,Hayır
+O0173,27,Kadın,Antalya,Lisans,Elektronik,524.19,3,4,Hayır
+O0174,25,Erkek,Bursa,Lisans,Elektronik,411.48,1,3,Evet
+O0175,33,Kadın,İstanbul,Lisans,Elektronik,1249.18,8,3,Hayır
+O0176,50,Erkek,İzmir,Lisans,Ev & Yaşam,87.97,3,4,Hayır
+O0177,18,Kadın,Antalya,Yüksek Lisans,Giyim,1105.65,5,2,Hayır
+O0178,18,Erkek,İstanbul,Ön Lisans,Ev & Yaşam,149.27,3,5,Hayır
+O0179,33,Kadın,İzmir,Yüksek Lisans,Giyim,455.16,2,5,Hayır
+O0180,32,Erkek,İzmir,Lisans,Spor,843.06,3,4,Hayır
+O0181,34,Erkek,Ankara,Lise,Ev & Yaşam,368.63,2,2,Hayır
+O0182,34,Erkek,İstanbul,Lisans,Elektronik,751.74,3,5,Hayır
+O0183,29,Kadın,İstanbul,Lisans,Spor,65.16,1,5,Hayır
+O0184,49,Kadın,Ankara,Lise,Elektronik,1563.46,3,5,Hayır
+O0185,18,Erkek,İzmir,Ön Lisans,Giyim,882.89,3,2,Hayır
+O0186,22,Kadın,Bursa,Lise,Elektronik,133.59,1,4,Evet
+O0187,30,Kadın,Bursa,Yüksek Lisans,Elektronik,215.95,1,5,Evet
+O0188,18,Kadın,İstanbul,Ön Lisans,Kitap,32.65,1,4,Hayır
+O0189,29,Kadın,Ankara,Lisans,Spor,270.13,2,4,Hayır
+O0190,51,Erkek,İstanbul,Yüksek Lisans,Elektronik,1554.66,5,4,Hayır
+O0191,32,Erkek,İstanbul,Ön Lisans,Giyim,1060.25,4,4,Hayır
+O0192,34,Kadın,İstanbul,Lisans,Kitap,71.51,4,1,Evet
+O0193,18,Kadın,Bursa,Lisans,Ev & Yaşam,428.69,4,4,Hayır
+O0194,24,Kadın,İstanbul,Lisans,Giyim,527.51,2,2,Hayır
+O0195,27,Erkek,Antalya,Ön Lisans,Ev & Yaşam,138.8,2,4,Hayır
+O0196,28,Erkek,Bursa,Lise,Giyim,208.68,4,3,Hayır
+O0197,47,Kadın,İstanbul,Lise,Giyim,257.91,4,4,Hayır
+O0198,38,Kadın,Bursa,Lise,Giyim,684.35,3,2,Evet
+O0199,18,Kadın,İstanbul,Yüksek Lisans,Elektronik,529.86,1,4,Hayır
+O0200,34,Kadın,İstanbul,Ön Lisans,Kitap,182.81,4,5,Hayır
+O0201,37,Kadın,Bursa,Yüksek Lisans,Elektronik,1433.37,4,3,Evet
+O0202,45,Erkek,Antalya,Ön Lisans,Ev & Yaşam,1062.3,5,2,Hayır
+O0203,50,Erkek,İstanbul,Ön Lisans,Ev & Yaşam,912.33,3,2,Hayır
+O0204,19,Kadın,Antalya,Lisans,Kitap,69.77,1,5,Hayır
+O0205,22,Kadın,Antalya,Lisans,Ev & Yaşam,1511.49,8,4,Hayır
+O0206,18,Erkek,İzmir,Yüksek Lisans,Giyim,967.36,4,4,Evet
+O0207,29,Erkek,İstanbul,Yüksek Lisans,Spor,447.81,6,2,Hayır
+O0208,37,Kadın,Ankara,Lisans,Giyim,184.94,1,4,Evet
+O0209,43,Erkek,İstanbul,Lisans,Spor,260.65,2,5,Hayır
+O0210,31,Erkek,Ankara,Lise,Spor,369.69,4,5,Evet
+O0211,28,Kadın,Ankara,Lisans,Giyim,269.46,2,4,Hayır
+O0212,33,Kadın,Bursa,Lisans,Giyim,1442.95,7,2,Hayır
+O0213,21,Kadın,İstanbul,Ön Lisans,Elektronik,2252.34,4,2,Hayır
+O0214,57,Erkek,İstanbul,Yüksek Lisans,Kitap,73.55,4,1,Evet
+O0215,18,Kadın,İstanbul,Yüksek Lisans,Giyim,75.98,1,3,Hayır
+O0216,34,Erkek,İzmir,Ön Lisans,Elektronik,1280.0,2,2,Hayır
+O0217,56,Erkek,Ankara,Ön Lisans,Giyim,1236.6,5,3,Hayır
+O0218,32,Kadın,İzmir,Yüksek Lisans,Spor,110.66,1,3,Hayır
+O0219,29,Kadın,Antalya,Yüksek Lisans,Elektronik,345.55,1,5,Evet
+O0220,27,Kadın,Ankara,Lisans,Giyim,39.13,1,4,Hayır
+O0221,29,Kadın,İzmir,Lise,Giyim,590.31,3,5,Hayır
+O0222,48,Kadın,İstanbul,Ön Lisans,Giyim,259.87,3,4,Hayır
+O0223,18,Erkek,Antalya,Lisans,Ev & Yaşam,899.86,4,2,Hayır
+O0224,50,Erkek,Ankara,Lise,Giyim,515.65,2,4,Hayır
+O0225,18,Erkek,Bursa,Lisans,Spor,1013.42,4,3,Hayır
+O0226,28,Erkek,Ankara,Lisans,Giyim,642.02,8,4,Hayır
+O0227,26,Kadın,Antalya,Lisans,Kitap,230.24,3,3,Hayır
+O0228,39,Erkek,Ankara,Lisans,Elektronik,712.73,1,5,Hayır
+O0229,18,Kadın,İstanbul,Lise,Elektronik,573.27,4,3,Hayır
+O0230,37,Kadın,İstanbul,Lisans,Spor,265.82,1,3,Hayır
+O0231,56,Kadın,İstanbul,Lise,Ev & Yaşam,1212.74,4,5,Hayır
+O0232,18,Kadın,Ankara,Ön Lisans,Spor,295.12,3,1,Hayır
+O0233,34,Kadın,Ankara,Ön Lisans,Kitap,185.47,3,4,Evet
+O0234,24,Kadın,Bursa,Ön Lisans,Ev & Yaşam,1168.66,5,4,Evet
+O0235,37,Erkek,İstanbul,Yüksek Lisans,Giyim,692.81,4,5,Hayır
+O0236,32,Kadın,İzmir,Lisans,Elektronik,310.43,1,5,Hayır
+O0237,24,Erkek,İstanbul,Lise,Ev & Yaşam,118.68,1,5,Evet
+O0238,37,Erkek,Ankara,Lisans,Giyim,1503.4,8,2,Hayır
+O0239,53,Kadın,İstanbul,Lise,Ev & Yaşam,489.89,4,5,Hayır
+O0240,29,Erkek,İstanbul,Ön Lisans,Ev & Yaşam,754.56,4,4,Hayır
+O0241,40,Kadın,İstanbul,Lise,Elektronik,1433.07,5,4,Hayır
+O0242,18,Kadın,İstanbul,Yüksek Lisans,Spor,229.46,1,2,Hayır
+O0243,20,Kadın,Ankara,Yüksek Lisans,Elektronik,1634.49,4,4,Hayır
+O0244,37,Erkek,Bursa,Lise,Giyim,387.61,2,5,Evet
+O0245,49,Erkek,İstanbul,Yüksek Lisans,Ev & Yaşam,489.28,3,5,Evet
+O0246,36,Kadın,İzmir,Lisans,Kitap,11.27,1,4,Hayır
+O0247,28,Erkek,İstanbul,Ön Lisans,Giyim,1378.78,5,1,Hayır
+O0248,31,Kadın,Bursa,Ön Lisans,Ev & Yaşam,371.14,3,3,Hayır
+O0249,18,Kadın,İzmir,Lise,Elektronik,580.47,7,5,Hayır
+O0250,39,Kadın,Bursa,Lisans,Giyim,513.78,3,4,Hayır
+O0251,42,Erkek,Antalya,Yüksek Lisans,Kitap,29.01,1,4,Hayır
+O0252,26,Erkek,İzmir,Lisans,Giyim,58.78,1,2,Evet
+O0253,26,Kadın,Bursa,Ön Lisans,Giyim,817.57,6,4,Hayır
+O0254,35,Erkek,İstanbul,Ön Lisans,Giyim,283.43,3,4,Hayır
+O0255,26,Erkek,Antalya,Yüksek Lisans,Elektronik,1713.96,3,5,Evet
+O0256,31,Kadın,Ankara,Lisans,Elektronik,567.85,2,4,Hayır
+O0257,57,Kadın,Bursa,Ön Lisans,Elektronik,1439.74,5,3,Hayır
+O0258,29,Kadın,Bursa,Lisans,Kitap,303.96,5,4,Hayır
+O0259,27,Kadın,İzmir,Ön Lisans,Giyim,88.88,4,2,Hayır
+O0260,24,Erkek,Ankara,Lisans,Kitap,28.22,3,5,Hayır
+O0261,40,Kadın,İstanbul,Lisans,Kitap,197.92,2,3,Hayır
+O0262,29,Kadın,İstanbul,Yüksek Lisans,Elektronik,1263.68,3,4,Hayır
+O0263,24,Erkek,İstanbul,Lisans,Giyim,608.74,2,3,Evet
+O0264,47,Kadın,Ankara,Lisans,Kitap,56.47,5,4,Hayır
+O0265,49,Kadın,Antalya,Ön Lisans,Giyim,344.86,4,4,Hayır
+O0266,24,Kadın,Bursa,Ön Lisans,Ev & Yaşam,457.13,3,4,Hayır
+O0267,18,Kadın,Ankara,Lisans,Spor,415.18,4,3,Hayır
+O0268,44,Kadın,İzmir,Lisans,Kitap,328.16,6,3,Hayır
+O0269,23,Erkek,İstanbul,Lisans,Ev & Yaşam,770.44,4,2,Hayır
+O0270,41,Erkek,Ankara,Lisans,Ev & Yaşam,1970.61,6,4,Hayır
+O0271,18,Kadın,Antalya,Yüksek Lisans,Kitap,19.24,1,1,Hayır
+O0272,42,Kadın,Ankara,Lise,Elektronik,1930.41,3,4,Hayır
+O0273,18,Kadın,Antalya,Yüksek Lisans,Elektronik,2522.85,3,5,Hayır
+O0274,40,Kadın,İstanbul,Ön Lisans,Elektronik,952.06,2,5,Hayır
+O0275,32,Kadın,Ankara,Lisans,Elektronik,187.34,3,4,Evet
+O0276,20,Kadın,Antalya,Ön Lisans,Ev & Yaşam,1250.68,8,4,Hayır
+O0277,27,Kadın,İstanbul,Ön Lisans,Spor,965.58,5,2,Hayır
+O0278,40,Kadın,Ankara,Lise,Ev & Yaşam,302.67,3,4,Hayır
+O0279,33,Kadın,Ankara,Ön Lisans,Ev & Yaşam,215.68,5,5,Hayır
+O0280,39,Kadın,Bursa,Lisans,Elektronik,1239.21,2,3,Hayır
+O0281,55,Kadın,Ankara,Lisans,Giyim,541.92,2,4,Hayır
+O0282,18,Erkek,Bursa,Yüksek Lisans,Elektronik,1857.72,5,5,Hayır
+O0283,51,Erkek,İstanbul,Lisans,Kitap,98.3,2,5,Hayır
+O0284,33,Erkek,İstanbul,Ön Lisans,Spor,1219.73,5,3,Hayır
+O0285,21,Kadın,İstanbul,Lisans,Spor,88.48,1,4,Hayır
+O0286,18,Erkek,İzmir,Lisans,Elektronik,318.32,3,3,Hayır
+O0287,29,Erkek,Bursa,Ön Lisans,Spor,311.47,3,2,Evet
+O0288,43,Kadın,İstanbul,Lisans,Spor,192.19,1,5,Hayır
+O0289,30,Erkek,İstanbul,Ön Lisans,Giyim,62.81,2,5,Hayır
+O0290,50,Kadın,İzmir,Ön Lisans,Kitap,373.55,5,5,Hayır
+O0291,18,Erkek,İstanbul,Lisans,Giyim,146.97,2,1,Hayır
+O0292,31,Erkek,Bursa,Ön Lisans,Spor,746.08,5,5,Hayır
+O0293,18,Kadın,Bursa,Lisans,Kitap,140.29,2,4,Hayır
+O0294,36,Erkek,Bursa,Yüksek Lisans,Spor,1463.11,5,3,Hayır
+O0295,42,Erkek,Antalya,Lise,Giyim,32.85,1,4,Hayır
+O0296,26,Kadın,İzmir,Ön Lisans,Giyim,612.99,5,2,Hayır
+O0297,18,Kadın,İzmir,Ön Lisans,Spor,1263.09,4,5,Hayır
+O0298,34,Erkek,Bursa,Ön Lisans,Giyim,394.3,4,4,Hayır
+O0299,37,Kadın,Ankara,Lisans,Giyim,1305.96,5,3,Hayır
+O0300,36,Erkek,İzmir,Yüksek Lisans,Giyim,1073.92,4,3,Hayır
+O0301,46,Erkek,Ankara,Ön Lisans,Elektronik,1820.94,3,3,Hayır
+O0302,19,Kadın,İstanbul,Lise,Spor,443.48,3,2,Hayır
+O0303,40,Kadın,Bursa,Ön Lisans,Ev & Yaşam,167.92,3,4,Hayır
+O0304,46,Kadın,Bursa,Lisans,Ev & Yaşam,539.19,7,5,Hayır
+O0305,18,Kadın,İstanbul,Yüksek Lisans,Ev & Yaşam,723.22,4,1,Evet
+O0306,35,Kadın,Ankara,Lise,Elektronik,1896.04,4,1,Hayır
+O0307,25,Kadın,İzmir,Yüksek Lisans,Spor,289.43,1,4,Hayır
+O0308,31,Erkek,İzmir,Lise,Giyim,154.36,4,5,Hayır
+O0309,36,Kadın,İstanbul,Lisans,Giyim,1531.43,5,3,Hayır
+O0310,26,Erkek,Antalya,Lise,Giyim,521.59,4,3,Hayır
+O0311,23,Erkek,İzmir,Ön Lisans,Spor,240.04,1,4,Hayır
+O0312,32,Erkek,Ankara,Lise,Elektronik,1388.0,3,3,Evet
+O0313,18,Erkek,Antalya,Lisans,Ev & Yaşam,118.31,4,1,Hayır
+O0314,18,Kadın,İzmir,Lise,Giyim,506.4,5,4,Hayır
+O0315,40,Kadın,İzmir,Lisans,Giyim,259.16,1,4,Evet
+O0316,18,Kadın,Bursa,Lisans,Elektronik,4572.96,9,4,Hayır
+O0317,39,Erkek,Bursa,Lisans,Ev & Yaşam,282.71,2,4,Hayır
+O0318,37,Erkek,İstanbul,Yüksek Lisans,Elektronik,3115.24,4,4,Hayır
+O0319,18,Erkek,Antalya,Ön Lisans,Spor,230.69,1,3,Hayır
+O0320,23,Erkek,İstanbul,Ön Lisans,Ev & Yaşam,478.13,2,3,Hayır
+O0321,46,Kadın,Ankara,Ön Lisans,Giyim,771.79,3,2,Evet
+O0322,20,Kadın,Antalya,Ön Lisans,Giyim,558.22,4,2,Hayır
+O0323,26,Kadın,İstanbul,Lise,Spor,571.33,4,4,Hayır
+O0324,37,Erkek,İstanbul,Ön Lisans,Elektronik,2768.95,6,5,Hayır
+O0325,41,Kadın,Bursa,Lise,Spor,468.71,3,5,Hayır
+O0326,28,Kadın,İzmir,Lisans,Kitap,89.16,4,4,Evet
+O0327,24,Kadın,İstanbul,Ön Lisans,Giyim,1091.28,4,3,Hayır
+O0328,49,Kadın,İstanbul,Yüksek Lisans,Elektronik,3014.92,8,2,Hayır
+O0329,52,Erkek,Ankara,Yüksek Lisans,Elektronik,1738.56,4,5,Hayır
+O0330,43,Erkek,İstanbul,Lisans,Ev & Yaşam,598.91,5,4,Hayır
+O0331,33,Erkek,İstanbul,Lisans,Elektronik,1237.84,2,4,Hayır
+O0332,22,Kadın,İstanbul,Yüksek Lisans,Spor,603.45,6,5,Hayır
+O0333,22,Erkek,Antalya,Ön Lisans,Kitap,82.18,3,4,Hayır
+O0334,38,Erkek,İstanbul,Lise,Spor,127.02,2,5,Hayır
+O0335,37,Erkek,İstanbul,Lise,Elektronik,2150.52,7,2,Hayır
+O0336,48,Erkek,İstanbul,Yüksek Lisans,Spor,294.7,6,4,Hayır
+O0337,39,Kadın,İzmir,Ön Lisans,Giyim,550.41,2,5,Hayır
+O0338,18,Kadın,İstanbul,Yüksek Lisans,Ev & Yaşam,1113.04,4,3,Hayır
+O0339,44,Erkek,Bursa,Ön Lisans,Elektronik,482.17,5,4,Hayır
+O0340,20,Erkek,Bursa,Ön Lisans,Giyim,1437.29,5,3,Hayır
+O0341,27,Kadın,Antalya,Lisans,Ev & Yaşam,290.05,2,5,Hayır
+O0342,35,Erkek,Ankara,Lisans,Ev & Yaşam,1120.07,4,1,Hayır
+O0343,55,Erkek,İstanbul,Lise,Ev & Yaşam,1016.15,4,4,Hayır
+O0344,65,Erkek,İzmir,Yüksek Lisans,Spor,367.98,5,3,Hayır
+O0345,39,Erkek,Antalya,Yüksek Lisans,Elektronik,2116.15,4,4,Evet
+O0346,29,Kadın,İstanbul,Lisans,Giyim,92.75,2,3,Hayır
+O0347,38,Kadın,Antalya,Lisans,Giyim,122.25,4,3,Hayır
+O0348,42,Erkek,İzmir,Lisans,Giyim,556.06,4,4,Hayır
+O0349,28,Erkek,Bursa,Lise,Elektronik,508.64,1,5,Hayır
+O0350,53,Kadın,Bursa,Ön Lisans,Spor,897.94,4,3,Hayır
+O0351,34,Kadın,Antalya,Lise,Ev & Yaşam,185.05,5,2,Hayır
+O0352,37,Kadın,Ankara,Lisans,Elektronik,1198.1,2,5,Evet
+O0353,39,Kadın,İstanbul,Lisans,Elektronik,1939.38,5,4,Hayır
+O0354,37,Erkek,İzmir,Yüksek Lisans,Elektronik,816.58,4,5,Evet
+O0355,42,Erkek,İstanbul,Lisans,Elektronik,3958.96,6,2,Hayır
+O0356,24,Kadın,İstanbul,Lise,Ev & Yaşam,132.3,1,4,Hayır
+O0357,25,Erkek,Antalya,Lise,Elektronik,883.77,2,3,Evet
+O0358,18,Kadın,İstanbul,Lisans,Kitap,17.71,1,3,Hayır
+O0359,37,Kadın,Bursa,Lisans,Elektronik,1145.41,4,4,Hayır
+O0360,41,Kadın,Antalya,Lisans,Spor,443.44,3,4,Hayır
+O0361,37,Erkek,Ankara,Lise,Elektronik,1264.71,2,5,Hayır
+O0362,52,Kadın,İstanbul,Ön Lisans,Spor,301.93,3,3,Hayır
+O0363,31,Erkek,Bursa,Lisans,Giyim,547.02,2,4,Hayır
+O0364,40,Kadın,İstanbul,Lisans,Kitap,24.33,1,4,Hayır
+O0365,18,Kadın,İstanbul,Yüksek Lisans,Elektronik,184.17,1,5,Hayır
+O0366,27,Erkek,Bursa,Ön Lisans,Elektronik,1044.95,7,3,Hayır
+O0367,40,Kadın,İstanbul,Yüksek Lisans,Giyim,1542.36,7,3,Hayır
+O0368,42,Kadın,İstanbul,Lise,Giyim,496.48,4,3,Hayır
+O0369,28,Erkek,İzmir,Ön Lisans,Giyim,142.33,1,4,Hayır
+O0370,31,Erkek,İzmir,Ön Lisans,Spor,145.16,3,3,Hayır
+O0371,18,Erkek,İstanbul,Lise,Elektronik,113.16,1,5,Hayır
+O0372,27,Erkek,İstanbul,Ön Lisans,Giyim,504.29,2,3,Hayır
+O0373,42,Erkek,Bursa,Lise,Kitap,38.14,1,5,Hayır
+O0374,38,Kadın,İstanbul,Lisans,Elektronik,2355.39,3,2,Hayır
+O0375,38,Erkek,Antalya,Ön Lisans,Spor,758.12,4,4,Hayır
+O0376,32,Erkek,İstanbul,Lise,Kitap,119.95,2,5,Hayır
+O0377,32,Kadın,Ankara,Lisans,Kitap,74.65,2,3,Hayır
+O0378,24,Erkek,Ankara,Lisans,Kitap,73.83,3,5,Hayır
+O0379,40,Kadın,Antalya,Lisans,Ev & Yaşam,270.88,2,4,Hayır
+O0380,37,Erkek,İstanbul,Lisans,Kitap,174.72,4,5,Hayır
+O0381,37,Erkek,İstanbul,Ön Lisans,Spor,626.39,3,4,Hayır
+O0382,25,Kadın,Ankara,Lisans,Elektronik,833.92,7,3,Evet
+O0383,18,Kadın,Antalya,Lise,Spor,860.64,3,3,Evet
+O0384,45,Kadın,Antalya,Lisans,Elektronik,879.53,2,3,Hayır
+O0385,26,Kadın,Ankara,Yüksek Lisans,Giyim,687.67,5,2,Hayır
+O0386,21,Kadın,İstanbul,Lisans,Kitap,84.6,2,2,Hayır
+O0387,40,Erkek,Ankara,Yüksek Lisans,Giyim,56.97,1,2,Hayır
+O0388,27,Erkek,İstanbul,Ön Lisans,Giyim,1042.41,4,4,Hayır
+O0389,44,Kadın,Antalya,Lise,Spor,873.91,3,5,Hayır
+O0390,39,Kadın,İstanbul,Lisans,Elektronik,728.09,4,2,Hayır
+O0391,40,Kadın,Ankara,Ön Lisans,Giyim,158.85,3,2,Hayır
+O0392,18,Erkek,İzmir,Ön Lisans,Ev & Yaşam,359.99,5,4,Hayır
+O0393,46,Erkek,Ankara,Ön Lisans,Elektronik,1312.11,3,3,Hayır
+O0394,35,Kadın,İstanbul,Lisans,Giyim,149.3,3,2,Hayır
+O0395,27,Erkek,Ankara,Lisans,Kitap,47.51,1,3,Evet
+O0396,33,Kadın,İstanbul,Lise,Spor,649.26,3,5,Hayır
+O0397,18,Kadın,İstanbul,Lisans,Spor,1060.75,4,5,Hayır
+O0398,36,Erkek,İzmir,Ön Lisans,Giyim,379.32,2,3,Hayır
+O0399,19,Kadın,Antalya,Lisans,Ev & Yaşam,347.36,3,4,Hayır
+O0400,18,Kadın,Antalya,Yüksek Lisans,Elektronik,1042.26,2,4,Hayır
+O0401,18,Erkek,İstanbul,Ön Lisans,Kitap,167.52,3,4,Hayır
+O0402,45,Kadın,Antalya,Ön Lisans,Giyim,566.99,2,4,Hayır
+O0403,24,Kadın,İstanbul,Ön Lisans,Elektronik,107.58,1,4,Hayır
+O0404,50,Kadın,Bursa,Yüksek Lisans,Giyim,518.1,2,3,Hayır
+O0405,25,Erkek,İstanbul,Yüksek Lisans,Spor,550.54,3,1,Hayır
+O0406,18,Kadın,İzmir,Lisans,Giyim,457.76,5,4,Hayır
+O0407,18,Erkek,Ankara,Lise,Elektronik,2359.93,3,5,Hayır
+O0408,46,Erkek,İstanbul,Lise,Ev & Yaşam,1454.65,6,4,Hayır
+O0409,30,Kadın,İstanbul,Lisans,Ev & Yaşam,102.81,2,5,Evet
+O0410,25,Erkek,İstanbul,Lise,Giyim,573.9,6,5,Hayır
+O0411,33,Erkek,Bursa,Ön Lisans,Ev & Yaşam,505.01,6,3,Hayır
+O0412,38,Kadın,İstanbul,Ön Lisans,Elektronik,1677.0,8,4,Hayır
+O0413,45,Kadın,Bursa,Lisans,Elektronik,132.71,1,4,Hayır
+O0414,49,Kadın,İstanbul,Ön Lisans,Ev & Yaşam,880.24,5,5,Hayır
+O0415,27,Kadın,Bursa,Lisans,Ev & Yaşam,385.87,3,5,Hayır
+O0416,18,Erkek,İstanbul,Lise,Spor,1787.61,6,4,Evet
+O0417,27,Erkek,İstanbul,Ön Lisans,Elektronik,1550.06,5,3,Hayır
+O0418,35,Erkek,İzmir,Ön Lisans,Kitap,15.99,1,5,Hayır
+O0419,20,Kadın,Ankara,Lisans,Ev & Yaşam,131.15,1,2,Hayır
+O0420,20,Kadın,Antalya,Lise,Ev & Yaşam,146.87,2,5,Hayır
+O0421,36,Kadın,İzmir,Lisans,Spor,325.2,5,5,Hayır
+O0422,31,Kadın,İstanbul,Lisans,Giyim,1067.8,6,3,Hayır
+O0423,32,Erkek,İzmir,Ön Lisans,Spor,532.26,3,4,Hayır
+O0424,22,Kadın,Ankara,Ön Lisans,Ev & Yaşam,909.01,5,4,Hayır
+O0425,29,Erkek,İstanbul,Lise,Elektronik,1815.39,3,4,Hayır
+O0426,20,Kadın,Antalya,Lise,Giyim,518.6,3,3,Evet
+O0427,42,Erkek,İstanbul,Ön Lisans,Kitap,70.18,2,5,Hayır
+O0428,44,Kadın,Bursa,Lise,Kitap,42.82,1,5,Evet
+O0429,18,Erkek,Bursa,Lisans,Spor,1712.03,8,5,Hayır
+O0430,20,Erkek,İstanbul,Lise,Giyim,469.98,2,3,Evet
+O0431,18,Erkek,Antalya,Lisans,Kitap,233.29,4,5,Hayır
+O0432,24,Kadın,Ankara,Lisans,Kitap,406.26,7,4,Hayır
+O0433,30,Kadın,İzmir,Lisans,Kitap,339.36,5,3,Evet
+O0434,18,Erkek,Bursa,Yüksek Lisans,Spor,592.81,3,2,Hayır
+O0435,20,Erkek,İstanbul,Ön Lisans,Spor,232.32,2,3,Evet
+O0436,19,Kadın,İstanbul,Ön Lisans,Elektronik,1256.39,3,5,Hayır
+O0437,34,Erkek,Antalya,Lisans,Ev & Yaşam,1427.17,5,4,Hayır
+O0438,32,Kadın,İzmir,Yüksek Lisans,Elektronik,1787.35,3,4,Hayır
+O0439,23,Kadın,Antalya,Ön Lisans,Kitap,38.24,3,3,Hayır
+O0440,34,Erkek,Bursa,Yüksek Lisans,Giyim,1233.93,5,4,Hayır
+O0441,25,Erkek,İstanbul,Lise,Giyim,251.14,1,1,Hayır
+O0442,28,Kadın,Bursa,Ön Lisans,Ev & Yaşam,131.68,3,3,Hayır
+O0443,52,Erkek,Ankara,Yüksek Lisans,Elektronik,387.7,2,4,Hayır
+O0444,48,Erkek,Ankara,Lisans,Spor,196.12,1,2,Hayır
+O0445,18,Kadın,İstanbul,Lise,Elektronik,1222.2,2,5,Hayır
+O0446,41,Kadın,Antalya,Ön Lisans,Kitap,46.87,1,3,Hayır
+O0447,41,Kadın,Antalya,Yüksek Lisans,Ev & Yaşam,287.03,3,4,Hayır
+O0448,18,Kadın,İzmir,Lise,Giyim,1299.12,4,4,Hayır
+O0449,41,Erkek,İzmir,Lise,Ev & Yaşam,264.51,2,4,Hayır
+O0450,50,Erkek,Bursa,Yüksek Lisans,Ev & Yaşam,2111.02,8,2,Hayır
+O0451,18,Kadın,Bursa,Lisans,Giyim,333.6,5,1,Hayır
+O0452,20,Kadın,Ankara,Lisans,Giyim,1139.2,5,5,Evet
+O0453,44,Erkek,İstanbul,Lise,Kitap,91.69,3,3,Hayır
+O0454,35,Kadın,İzmir,Lisans,Spor,57.4,1,5,Hayır
+O0455,38,Erkek,İstanbul,Ön Lisans,Elektronik,1542.41,3,5,Hayır
+O0456,36,Kadın,İstanbul,Lise,Elektronik,1839.75,4,3,Hayır
+O0457,36,Erkek,Bursa,Yüksek Lisans,Spor,1046.17,6,3,Hayır
+O0458,18,Erkek,Antalya,Yüksek Lisans,Ev & Yaşam,1148.06,4,4,Hayır
+O0459,44,Erkek,İstanbul,Ön Lisans,Spor,308.4,3,5,Hayır
+O0460,46,Erkek,Ankara,Yüksek Lisans,Elektronik,439.02,2,5,Hayır
+O0461,29,Erkek,Antalya,Lisans,Giyim,39.98,2,4,Evet
+O0462,31,Kadın,Bursa,Yüksek Lisans,Ev & Yaşam,523.36,2,5,Evet
+O0463,18,Kadın,İstanbul,Ön Lisans,Elektronik,2742.19,4,2,Hayır
+O0464,38,Kadın,İstanbul,Yüksek Lisans,Ev & Yaşam,85.12,1,5,Hayır
+O0465,38,Kadın,İstanbul,Lise,Kitap,90.41,5,5,Hayır
+O0466,31,Erkek,İstanbul,Ön Lisans,Kitap,506.29,6,3,Hayır
+O0467,45,Erkek,Ankara,Lise,Giyim,1569.88,6,3,Hayır
+O0468,27,Kadın,İstanbul,Lisans,Ev & Yaşam,745.31,3,2,Hayır
+O0469,38,Erkek,Bursa,Lise,Ev & Yaşam,355.39,6,3,Hayır
+O0470,19,Kadın,İstanbul,Yüksek Lisans,Giyim,857.71,5,5,Hayır
+O0471,31,Erkek,Ankara,Lisans,Giyim,513.64,4,3,Hayır
+O0472,29,Kadın,İzmir,Yüksek Lisans,Elektronik,1110.43,2,2,Evet
+O0473,34,Erkek,Ankara,Lise,Ev & Yaşam,488.2,2,3,Evet
+O0474,27,Kadın,İstanbul,Lisans,Kitap,71.12,2,5,Hayır
+O0475,30,Kadın,Antalya,Lisans,Ev & Yaşam,745.16,5,4,Hayır
+O0476,41,Kadın,İstanbul,Yüksek Lisans,Elektronik,1933.45,3,4,Evet
+O0477,26,Erkek,Bursa,Lise,Ev & Yaşam,634.72,2,3,Hayır
+O0478,18,Kadın,Antalya,Yüksek Lisans,Ev & Yaşam,1580.29,6,5,Hayır
+O0479,52,Kadın,İstanbul,Yüksek Lisans,Elektronik,4051.27,7,5,Hayır
+O0480,48,Kadın,Bursa,Lisans,Elektronik,609.69,2,3,Hayır
+O0481,18,Kadın,İstanbul,Lise,Giyim,689.64,5,2,Hayır
+O0482,40,Kadın,Ankara,Ön Lisans,Elektronik,1337.99,2,2,Evet
+O0483,25,Erkek,Antalya,Lisans,Kitap,57.55,4,2,Evet
+O0484,35,Kadın,Antalya,Ön Lisans,Kitap,18.23,2,4,Hayır
+O0485,35,Kadın,Ankara,Lisans,Giyim,160.54,2,5,Hayır
+O0486,29,Kadın,İstanbul,Lisans,Giyim,791.25,5,4,Evet
+O0487,22,Erkek,Ankara,Lisans,Spor,881.44,4,5,Hayır
+O0488,23,Erkek,İstanbul,Yüksek Lisans,Kitap,63.07,2,4,Evet
+O0489,21,Kadın,İstanbul,Lisans,Ev & Yaşam,194.31,1,4,Hayır
+O0490,22,Kadın,Ankara,Lisans,Spor,26.38,1,4,Hayır
+O0491,31,Erkek,Ankara,Ön Lisans,Elektronik,981.92,3,3,Hayır
+O0492,23,Kadın,Ankara,Lisans,Giyim,100.83,1,3,Hayır
+O0493,40,Erkek,İstanbul,Ön Lisans,Spor,282.53,1,4,Hayır
+O0494,49,Erkek,Bursa,Ön Lisans,Giyim,781.42,5,2,Hayır
+O0495,25,Erkek,İstanbul,Lisans,Elektronik,6953.39,8,3,Hayır
+O0496,34,Erkek,Antalya,Yüksek Lisans,Spor,270.79,3,4,Hayır
+O0497,37,Kadın,İzmir,Lisans,Elektronik,499.56,3,5,Hayır
+O0498,37,Erkek,Antalya,Lisans,Giyim,402.71,2,4,Evet
+O0499,32,Kadın,İzmir,Lisans,Giyim,703.99,3,5,Evet
+O0500,40,Kadın,İstanbul,Lise,Ev & Yaşam,190.55,1,4,Hayır
